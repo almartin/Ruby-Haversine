@@ -2,6 +2,8 @@
 
 #
 # Author: almartin <alex.m.martineau@gmail.com>
+# Version: 1.0
+# Date: 03/14/2011
 # Language: Ruby
 # Descrption: Example script implementing Haversine formula to identify distance in KM between 2 coordinates
 # Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
