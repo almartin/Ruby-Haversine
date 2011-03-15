@@ -1,0 +1,9 @@
+##################################################################
+# Ruby Haversine - README
+##################################################################
+
+This software is licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+
+This software has been tested using:
+    Mac OSX 10.6
+    Ruby 1.8.7
