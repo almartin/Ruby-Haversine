@@ -4,7 +4,7 @@
 # Author: almartin <alex.m.martineau@gmail.com>
 # Language: Ruby
 # Descrption: Example script implementing Haversine formula to identify distance in KM between 2 coordinates
-# License: See LICENSE file
+# Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
 #
 
 def coorDist(lat1, lon1, lat2, lon2)
